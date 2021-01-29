@@ -1,0 +1,22 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+p {
+    color: magenta;
+    font-size: 24;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding: 5px;
+    border: 5px dashed cornflowerblue;
+    ]
+}
+h3 {
+    font-style: italic;
+}
+
+.status {
+    color: mediumblue;
+}
