@@ -11,6 +11,10 @@ p {
     margin-left: 50px;
     padding: 5px;
     border: 5px dashed cornflowerblue;
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: line-through;
+    font-family: Concrete, sans-serif;
     ]
 }
 h3 {

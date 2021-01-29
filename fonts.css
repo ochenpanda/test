@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Concrete';
+    src: url('Concrete-Regular.woff2') format('woff2'),
+        url('Concrete-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
